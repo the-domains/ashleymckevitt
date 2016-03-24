@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ashleymckevitt]]></title>
         <description><![CDATA[ashleymckevitt]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ashleymckevitt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 21:08:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 21:28:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ashleymckevitt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Resume]]></title>
+            <description><![CDATA[<article><h1>Resume</h1><p>SENIOR DESIGNER / TBA GLOBAL / MAY 2014 - CURRENT </p></article>]]></description>
+            <link>https://thegrid.ai/ashleymckevitt/resume/index.html</link>
+            <guid isPermaLink="false">c1f51856-4ae3-4a36-bf6d-cec8c10fab77</guid>
+            <pubDate>Thu, 24 Mar 2016 21:28:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97f7e582-4f95-4bdf-9b1b-0e9b25b046f4.jpg">]]></description>
-            <link>undefinedan-admirer-of-visual-grids-and-beautiful-contrast-obsessed/index.html</link>
+            <link>https://thegrid.ai/ashleymckevitt/an-admirer-of-visual-grids-and-beautiful-contrast-obsessed/index.html</link>
             <guid isPermaLink="false">bfbf2516-53cd-4468-9b5e-cb10f3f02274</guid>
             <pubDate>Thu, 24 Mar 2016 21:08:28 GMT</pubDate>
         </item>
