@@ -1,7 +1,7 @@
 name: ashleymckevitt
 favicon: null
-layout_spectrum: 0.03985724481754005
-typography_spectrum: 0.7390794318635017
+layout_spectrum: 1
+typography_spectrum: 0.43614
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.5279292755294591
-  lightness: 0.6655525555834174
-  saturation: 0.8783638013992459
-  rhythmicContrast: 0.9586134299170226
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.875
+  rhythmicContrast: 0
 purpose: []
